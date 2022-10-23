@@ -55,7 +55,7 @@ function loadContact(){
 	var ct2 = document.createElement("center")
 	var img2 = document.createElement("img")
 	img2.className = "menu-img"
-	img2.src = "../src/Images/navigation.jpg"
+	img2.src = "./Images/navigation.jpg"
 
 	contactCont.append(ct2)
 	ct2.append(img2)

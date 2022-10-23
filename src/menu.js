@@ -17,7 +17,7 @@ function loadMenu(){
 	var ct1 = document.createElement("center")
 	var img1 = document.createElement("img")
 	img1.className = "menu-img"
-	img1.src = "../src/Images/pizza.jpg"
+	img1.src = "./Images/pizza.jpg"
 
 	menuCont.append(tp1)
 	menuCont.append(ct1)
@@ -31,7 +31,7 @@ function loadMenu(){
 	var ct2 = document.createElement("center")
 	var img2 = document.createElement("img")
 	img2.className = "menu-img"
-	img2.src = "../src/Images/pepperoni.jpg"
+	img2.src = "./Images/pepperoni.jpg"
 
 	menuCont.append(tp2)
 	menuCont.append(ct2)
@@ -45,7 +45,7 @@ function loadMenu(){
 	var ct3 = document.createElement("center")
 	var img3 = document.createElement("img")
 	img3.className = "menu-img"
-	img3.src = "../src/Images/hamburger.jpg"
+	img3.src = "./Images/hamburger.jpg"
 
 	menuCont.append(tp3)
 	menuCont.append(ct3)
@@ -60,7 +60,7 @@ function loadMenu(){
 	var ct4 = document.createElement("center")
 	var img4 = document.createElement("img")
 	img4.className = "menu-img"
-	img4.src = "../src/Images/completeburger.jpg"
+	img4.src = "./Images/completeburger.jpg"
 
 	menuCont.append(tp4)
 	menuCont.append(ct4)
@@ -75,7 +75,7 @@ function loadMenu(){
 	var ct5 = document.createElement("center")
 	var img5 = document.createElement("img")
 	img5.className = "menu-img"
-	img5.src = "../src/Images/chickenwings.jpg"
+	img5.src = "./Images/chickenwings.jpg"
 
 	menuCont.append(tp5)
 	menuCont.append(ct5)

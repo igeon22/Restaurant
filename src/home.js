@@ -69,9 +69,9 @@ function loadHtmlComponent(active){
 
 function slideImages(frame){
 	var imageSlider = document.querySelector(".image-slider")
-	var img1 = "../src/Images/drinks.jpg"
-	var img2 = "../src/Images/platter.jpg"
-	var img3 = "../src/Images/salad.jpg"
+	var img1 = "./Images/drinks.jpg"
+	var img2 = "./Images/platter.jpg"
+	var img3 = "./Images/salad.jpg"
 	var circ1 = document.querySelector("#c-1")
 	var circ2 = document.querySelector("#c-2")
 	var circ3 = document.querySelector("#c-3")
